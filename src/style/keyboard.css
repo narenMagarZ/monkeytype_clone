@@ -1,0 +1,25 @@
+.keyboard-container{
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 0;
+}
+.keyboard-layout {
+
+}
+
+#btn-key{
+    padding: 10px;
+    text-align: center;
+    margin:2px ;
+    min-width: 50px;
+    min-height: 50px;
+    font-weight: 500;
+    font-size: 20px;
+}
+.active-btn{
+    background-color: #ff0000;
+}
+
