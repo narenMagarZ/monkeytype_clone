@@ -1,0 +1,9 @@
+.result-container{
+    padding: 4px;
+    margin: 10px;
+}
+#wpm-value{
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--wpm);
+}
